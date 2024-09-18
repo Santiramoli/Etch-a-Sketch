@@ -5,10 +5,10 @@ This project is a **browser-based drawing grid** inspired by the classic Etch-a-
 . <br>Users can create pixel art by hovering over grid cells, which change color on mouseover. The grid size can be customized, and each square progressively darkens with repeated mouse interactions.
 
 ## Features
-- Dynamic Grid: The grid can be resized (between 16x16 and 100x100) based on user input.
-- Random Colors: Each square gets a random color the first time it is hovered over.
-- Darkening Effect: Every time a square is hovered over again, it darkens by 10% until it reaches black.
-- Responsive Design: The grid adjusts based on the selected size while maintaining a consistent total container size (700px).
+- Dynamic Grid--> The grid can be resized (between 16x16 and 100x100) based on user input.
+- Random Colors--> Each square gets a random color the first time it is hovered over.
+- Darkening Effect--> Every time a square is hovered over again, it darkens by 10% until it reaches black.
+- Responsive Design--> The grid adjusts based on the selected size while maintaining a consistent total container size (700px).
 
 ## How to Use
 1. Open the webpage in your browser.
