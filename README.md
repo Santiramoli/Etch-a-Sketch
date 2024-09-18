@@ -1,7 +1,8 @@
 
 # Etch-a-Sketch
 
-This project is a browser-based drawing grid inspired by the classic Etch-a-Sketch toy. Users can create pixel art by hovering over grid cells, which change color on mouseover. The grid size can be customized, and each square progressively darkens with repeated mouse interactions.
+This project is a browser-based drawing grid inspired by the classic Etch-a-Sketch toy developed with [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev).
+. Users can create pixel art by hovering over grid cells, which change color on mouseover. The grid size can be customized, and each square progressively darkens with repeated mouse interactions.
 
 ## Features
 - Dynamic Grid: The grid can be resized (between 16x16 and 100x100) based on user input.
@@ -21,7 +22,4 @@ This project is a browser-based drawing grid inspired by the classic Etch-a-Sket
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Tech Stack
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev).
