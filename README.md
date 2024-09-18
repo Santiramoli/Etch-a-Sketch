@@ -1,14 +1,14 @@
 
-# Etch-a-Sketch
+# Etch-a-Sketch :framed_picture:
 
 This project is a **browser-based drawing grid** inspired by the classic Etch-a-Sketch toy developed with [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-. Users can create pixel art by hovering over grid cells, which change color on mouseover. The grid size can be customized, and each square progressively darkens with repeated mouse interactions.
+. <br>Users can create pixel art by hovering over grid cells, which change color on mouseover. The grid size can be customized, and each square progressively darkens with repeated mouse interactions.
 
 ## Features
-- Dynamic Grid: The grid can be resized (between 16x16 and 100x100) based on user input.
-- Random Colors: Each square gets a random color the first time it is hovered over.
-- Darkening Effect: Every time a square is hovered over again, it darkens by 10% until it reaches black.
-- Responsive Design: The grid adjusts based on the selected size while maintaining a consistent total container size (700px).
+- Dynamic Grid--> The grid can be resized (between 16x16 and 100x100) based on user input.
+- Random Colors--> Each square gets a random color the first time it is hovered over.
+- Darkening Effect--> Every time a square is hovered over again, it darkens by 10% until it reaches black.
+- Responsive Design--> The grid adjusts based on the selected size while maintaining a consistent total container size (700px).
 
 ## How to Use
 1. Open the webpage in your browser.
@@ -17,9 +17,9 @@ This project is a **browser-based drawing grid** inspired by the classic Etch-a-
 4. Enter the number of squares per side (*between 16 and 100*) to create a new grid.
 
 
-## Screenshots
+## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screenshot.jpeg)
 
 
 
