@@ -17,7 +17,7 @@ This project is a **browser-based drawing grid** inspired by the classic Etch-a-
 4. Enter the number of squares per side (*between 16 and 100*) to create a new grid.
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](screenshot.jpeg)
 
