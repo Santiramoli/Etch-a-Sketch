@@ -19,7 +19,7 @@ This project is a **browser-based drawing grid** inspired by the classic Etch-a-
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screenshot.jpeg)
 
 
 
